@@ -1,0 +1,29 @@
+{
+  "name": "MileOnAir",
+  "version": "1.0.0",
+  "description": "API-сервер программы лояльности MileOnAir",
+  "title": "API-сервер программы лояльности MileOnAir",
+  "url": "https://developer.mileonair.com/",
+  "header": {
+    "title": "Коды ответов",
+    "filename": "responses.md"
+  },
+  "order": [
+    "Инициализация",
+    "get_system_parameters",
+    "get_system_languages",
+    "Авторизация",
+    "get_hashes",
+    "get_airports",
+    "get_cities",
+    "get_partner_categories",
+    "get_partners_relevant",
+    "get_partners_in_airports",
+    "get_partners_in_city",
+    "get_languages",
+    "get_parameters",
+    "getOnpassPointsInAirport",
+    "getOnpassPoint"
+  ]
+}
+
